@@ -1,0 +1,2 @@
+Hello, Welcome to simplilearn online learning course.
+This is first exercise to practice the git setup and basic operations of git.
